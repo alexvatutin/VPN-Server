@@ -1,0 +1,1 @@
+-- Optional init script placeholder. Migrations manage schema.
